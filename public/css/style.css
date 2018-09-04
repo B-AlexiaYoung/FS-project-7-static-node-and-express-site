@@ -1,7 +1,7 @@
 
-h1,h2,h3,h4,h5,p{
+/* h1,h2,h3,h4,h5,p{
   font-family: 'Merriweather', serif;
-}
+} */
 
   h5{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -26,9 +26,9 @@ h1,h2,h3,h4,h5,p{
   border-radius: 5px;
 }
 
-.text-light{
+/* .text-light{
   color: #666;
-}
+} */
 
 .button{
   background-color: #333;
@@ -44,6 +44,7 @@ a{
 
 a:hover{
   color: #111;
+
 }
 
 .image{
@@ -103,7 +104,7 @@ a:hover{
 }
 
 .portfolio-intro p{
-  border-bottom: 1px solid #eaeaea;
+ /* border-bottom: 1px solid #eaeaea;  */
   padding-bottom: 40px;
 }
 
@@ -147,4 +148,40 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+/***************************
+Added Styles
+***************************/
+
+h1,h2,h3,h4,h5,p{
+  font-family: 'Roboto', serif;
+}
+
+.portfolio-intro{
+  background-color:  rgb(52, 58, 66);
+  color: rgb(207, 208, 211);
+}
+
+.portfolio-index{
+  background-color: rgb(38, 26, 31);
+
+}
+.portfolio-intro p{
+  border-bottom: 1px solid rgb(244, 167, 141);
+  color: rgb(207, 208, 211);
+
+}
+.portfolio-project li{
+  color: rgb(207, 208, 211);
+ 
+}
+
+.text-light{
+  color: rgb(207, 208, 211);
+}
+.title-bar{
+  background-color: rgb(38, 26, 31);
+}
+img:hover{
+  scale: 1.2;
 }

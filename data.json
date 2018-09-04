@@ -1,0 +1,55 @@
+{
+
+    "projects": [{
+        "id": 0,
+        "project_name": "Quote Generator",
+        "description": "An app that generates random quotes",
+        "technologies": ["javascript", "html", "css"],
+        "live_link": "https://b-alexiayoung.github.io/FS-project-1-random-quote/",
+        "github_link": "https://github.com/B-AlexiaYoung/FS-project-1-random-quote",
+        "image_urls": ["rsz_pj101.jpg", "rsz_pj102.jpg", "rsz_pj104.jpg","rsz_pj103.jpg"],
+        "image_alt": "image of quote generator"
+
+    },
+    {
+        "id": 1,
+        "project_name": "Pagination",
+        "description": "An app that paginates a list of employee along with a search feature.",
+        "technologies": ["javascript", "html", "css"],
+        "live_link": "https://b-alexiayoung.github.io/FS-project-2-pagination/.",
+        "github_link": "https://github.com/B-AlexiaYoung/Second-project",
+        "image_urls": ["rsz_pj202.jpg", "rsz_pj201.jpg", "rsz_pj204.jpg","rsz_pj203.jpg"],
+        "image_alt": "image of working pagination"
+    },
+    {
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "A form with live error checking on the credit card number",
+        "technologies": ["javascript", "html", "css"],
+        "live_link": " https://b-alexiayoung.github.io/FS-project-3-interactive-form/.",
+        "github_link": "https://github.com/B-AlexiaYoung/FS-project-3-interactive-form",
+        "image_urls": ["rsz_pj302.jpg", "rsz_pj301.jpg", "rsz_pj304.jpg","rsz_pj303.jpg"],
+        "image_alt": "Image of interative form"
+    },
+    {
+        "id": 3,
+        "project_name": "Wheel of Success",
+        "description": " A guess the movie phrase game.",
+        "technologies": ["javascript", "html", "css"],
+        "live_link": "https://b-alexiayoung.github.io/project-7-game-show-app/.",
+        "github_link": "https://github.com/B-AlexiaYoung/project-7-game-show-app",
+        "image_urls": ["rsz_wos104.jpg", "rsz_wos101.jpg","rsz_wos102.jpg","rsz_wos103.jpg"],
+        "image_alt": "image of wheel of success game"
+    },
+    {
+        "id": 4,
+        "project_name": "Employee Directory",
+        "description": " A searchable directory with individual overlay.",
+        "technologies": ["javascript", "html", "css","sass"],
+        "live_link": "https://b-alexiayoung.github.io/project-10-employee-directory/.",
+        "github_link": "https://github.com/B-AlexiaYoung/project-10-employee-directory",
+        "image_urls": ["rsz_pj502.jpg","rsz_pj501.jpg","rsz_pj503.jpg","rsz_pj504.jpg"],
+        "image_alt": "image of employee directory"
+    }]
+
+}
