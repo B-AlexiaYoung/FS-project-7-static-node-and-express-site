@@ -8,4 +8,4 @@ This is a project for the Treehouse Full Stack Tech Degree, the project involves
   * Border color changed to a salmon hue.
 
 ##  Other changes made:
-  * alternates added for images and Json adjusted
+  * Alternates added for images and Json adjusted
