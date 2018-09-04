@@ -4,7 +4,9 @@
   "description": "site using node and express",
   "main": "scripts.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+
   },
   "author": "byoung",
   "license": "MIT",
@@ -14,9 +16,7 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.3"
-  },
-  "scripts": {
-     "start": "node app.js"
-  } 
+  }
+  
 }
  
